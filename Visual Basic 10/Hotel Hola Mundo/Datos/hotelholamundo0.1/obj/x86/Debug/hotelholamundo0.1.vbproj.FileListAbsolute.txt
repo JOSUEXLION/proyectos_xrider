@@ -1,0 +1,14 @@
+C:\Users\Geistesblitz\Documents\Visual Studio 2010\Projects\hotelholamundo0.1\hotelholamundo0.1\bin\Debug\hotelholamundo0.1.exe
+C:\Users\Geistesblitz\Documents\Visual Studio 2010\Projects\hotelholamundo0.1\hotelholamundo0.1\bin\Debug\hotelholamundo0.1.pdb
+C:\Users\Geistesblitz\Documents\Visual Studio 2010\Projects\hotelholamundo0.1\hotelholamundo0.1\bin\Debug\hotelholamundo0.1.xml
+C:\Users\Geistesblitz\Documents\Visual Studio 2010\Projects\hotelholamundo0.1\hotelholamundo0.1\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Geistesblitz\Documents\Visual Studio 2010\Projects\hotelholamundo0.1\hotelholamundo0.1\obj\x86\Debug\hotelholamundo0.1.vbproj.GenerateResource.Cache
+C:\Users\Geistesblitz\Documents\Visual Studio 2010\Projects\hotelholamundo0.1\hotelholamundo0.1\obj\x86\Debug\hotelholamundo0.1.exe
+C:\Users\Geistesblitz\Documents\Visual Studio 2010\Projects\hotelholamundo0.1\hotelholamundo0.1\obj\x86\Debug\hotelholamundo0.1.xml
+C:\Users\Geistesblitz\Documents\Visual Studio 2010\Projects\hotelholamundo0.1\hotelholamundo0.1\obj\x86\Debug\hotelholamundo0.1.pdb
+C:\Users\Geistesblitz\documents\visual studio 2010\Projects\hotelholamundo0.1\hotelholamundo0.1\obj\x86\Debug\WindowsApplication1.frmpantalladereserva.resources
+C:\Users\Geistesblitz\documents\visual studio 2010\Projects\hotelholamundo0.1\hotelholamundo0.1\obj\x86\Debug\WindowsApplication1.frmpantalladeinicio.resources
+C:\Users\Geistesblitz\documents\visual studio 2010\Projects\hotelholamundo0.1\hotelholamundo0.1\bin\Debug\hotelholamundo0.1.exe.manifest
+C:\Users\Geistesblitz\documents\visual studio 2010\Projects\hotelholamundo0.1\hotelholamundo0.1\bin\Debug\hotelholamundo0.1.application
+C:\Users\Geistesblitz\documents\visual studio 2010\Projects\hotelholamundo0.1\hotelholamundo0.1\obj\x86\Debug\hotelholamundo0.1.exe.manifest
+C:\Users\Geistesblitz\documents\visual studio 2010\Projects\hotelholamundo0.1\hotelholamundo0.1\obj\x86\Debug\hotelholamundo0.1.application
